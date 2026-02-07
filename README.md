@@ -41,3 +41,12 @@ This project demonstrates:
 
 4. Place cereal.xlsx and cereal_analysis.R in the same folder.
 5. Open the R script and run it to generate plots and results.
+
+---
+
+## 📊 Project Presentation
+
+A visual walkthrough of the analysis, insights, and charts is available below:
+
+🔗 **[View the Canva Presentation](https://www.canva.com/design/DAHAqdG4xJc/_lhrmR7_8ItcytMUApdVLg/view?utm_content=DAHAqdG4xJc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h18a847798e)**
+
